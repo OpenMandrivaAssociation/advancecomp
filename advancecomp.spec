@@ -13,7 +13,6 @@ Source0:	%{name}-%{version}.tar.bz2
 BuildRequires:	mencoder
 BuildRequires:	groff
 BuildRequires:  zlib-devel
-Buildroot:	%{_tmppath}/%{name}-%{version}
 
 %description
 AdvanceCOMP contains recompression utilities for your .zip
