@@ -1,6 +1,6 @@
 %define name	advancecomp
 %define version	1.15
-%define release	%mkrel 3
+%define release	%mkrel 4
 
 Summary:	The AdvanceCOMP compression
 Name:		%{name}
