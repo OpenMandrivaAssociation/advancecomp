@@ -1,6 +1,6 @@
 Summary:	The AdvanceCOMP compression
 Name:		advancecomp
-Version:	2.4
+Version:	2.5
 Release:	1
 License:	GPL
 Group:		Archiving/Compression
