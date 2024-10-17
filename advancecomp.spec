@@ -4,7 +4,7 @@ Version:	2.6
 Release:	1
 License:	GPL
 Group:		Archiving/Compression
-URL:		http://advancemame.sourceforge.net
+URL:		https://advancemame.sourceforge.net
 Source0:	https://github.com/amadvance/advancecomp/releases/download/v%{version}/advancecomp-%{version}.tar.gz
 BuildRequires:	mencoder
 BuildRequires:	groff
