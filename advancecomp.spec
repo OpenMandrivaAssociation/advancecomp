@@ -6,6 +6,11 @@ License:	GPL
 Group:		Archiving/Compression
 URL:		https://advancemame.sourceforge.net
 Source0:	https://github.com/amadvance/advancecomp/releases/download/v%{version}/advancecomp-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	mencoder
 BuildRequires:	groff
 BuildRequires:  zlib-devel
